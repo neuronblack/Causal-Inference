@@ -11,7 +11,5 @@
 --------
 
 .. toctree::
-
-
    survey/survey.md
    references/references.md

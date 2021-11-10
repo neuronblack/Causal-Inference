@@ -7,10 +7,10 @@
 
    更新中
 
-Contents
+目录
 --------
 
 .. toctree::
 
-   survey
-   references
+   survey/survey.md
+   references/references.md

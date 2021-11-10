@@ -14,5 +14,3 @@
 
    survey/survey.md
    references/references.md
-   references/references.md
-docs/source/ references/references.md

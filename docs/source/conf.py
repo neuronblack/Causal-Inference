@@ -229,7 +229,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'Recommonmark.tex', u'Causal Inference,
+  (master_doc, 'Causalinference.tex', u'Causal Inference',
    u'NeuronBlack', 'manual'),
 ]
 
@@ -273,8 +273,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'Causal Inference', u'Causal Inference',
-   author, 'Causal Inference', 'One line description of project.',
+  (master_doc, 'causalinference', u'Causal Inference',
+   author, 'causalinference', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -292,7 +292,7 @@ texinfo_documents = [
 
 # app setup hook
 def setup(app):
-    app.add_config_value('recommonmark_config', {
+    app.add_config_value('causalinference_config', {
         #'url_resolver': lambda url: github_doc_root + url,
         'auto_toc_tree_section': 'Contents',
         'enable_math': False,

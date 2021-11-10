@@ -51,11 +51,11 @@ templates_path = ['_templates']
 master_doc = 'index'
 
 # General information about the project.
-project = u'Recommonmark'
-copyright = u'2015, Luca Barbato, Eric Holscher, and contributors'
-author = u'Luca Barbato, Eric Holscher, and contributors'
+project = u'Causal Inference'
+copyright = u'2021, NeuronBlack' 
+author = u'NeuronBlack'
 
-github_doc_root = 'https://github.com/rtfd/recommonmark/tree/master/docs/'
+github_doc_root = 'https://github.com/neuronblack/Causal-Inference'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -229,8 +229,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'Recommonmark.tex', u'Recommonmark Documentation',
-   u'Lu Zero, Eric Holscher, and contributors', 'manual'),
+  (master_doc, 'Recommonmark.tex', u'Causal Inference,
+   u'NeuronBlack', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -259,7 +259,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'recommonmark', u'Recommonmark Documentation',
+    (master_doc, 'causalinference', u'Causal Inference',
      [author], 1)
 ]
 
@@ -273,8 +273,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'Recommonmark', u'Recommonmark Documentation',
-   author, 'Recommonmark', 'One line description of project.',
+  (master_doc, 'Causal Inference', u'Causal Inference',
+   author, 'Causal Inference', 'One line description of project.',
    'Miscellaneous'),
 ]
 

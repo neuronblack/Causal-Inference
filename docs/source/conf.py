@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+project = ' Causal Inference'
+copyright = '2021, NeuronBlack'
 author = 'Graziella'
 
 release = '0.1'

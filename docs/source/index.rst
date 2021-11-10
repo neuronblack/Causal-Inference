@@ -5,12 +5,12 @@
 
 .. note::
 
-   更新中。。。
+   更新中。。。。
 
 目录
 --------
 
 .. toctree::
-
+   :maxdepth: 2
    survey/survey.md
    references/references.md

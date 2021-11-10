@@ -12,5 +12,6 @@
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contents:
    survey/survey.md
    references/references.md

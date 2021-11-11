@@ -207,7 +207,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Causalinference'
+htmlhelp_basename = 'Causal Inference'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -292,7 +292,7 @@ texinfo_documents = [
 
 # app setup hook
 def setup(app):
-    app.add_config_value('causalinference_config', {
+    app.add_config_value('recommonmark_config', {
         #'url_resolver': lambda url: github_doc_root + url,
         'auto_toc_tree_section': 'Contents',
         'enable_math': False,

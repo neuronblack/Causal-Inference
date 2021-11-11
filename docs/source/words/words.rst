@@ -7,3 +7,4 @@
     原因, cause
     结果, effect
     混杂因素, confounder
+    潜在结果, potential outcome

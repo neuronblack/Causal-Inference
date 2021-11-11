@@ -14,3 +14,4 @@
 
    survey/survey.md
    references/references.md
+   words/words.md

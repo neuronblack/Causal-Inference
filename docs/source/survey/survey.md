@@ -18,3 +18,11 @@
     * 指执行在unit身上的行为，大多数treatment都是二分行为，即是否执行，执行的是实验组，不执行的是控制组。
 * potential outcome
     * 每个unit-treatment对产生的结果。
+* observed outcome
+    * 实际上treatment执行在unit的结果
+* counterfactual outcome
+    * 假设另一种treatment执行在unit上的结果，因为实际上只有一种treatment能作用于unit之上，剩下的treatment产生的结果就是counterfactual outcome
+* pre-treatment  variables
+    * 不被treatment影响的变量，即背景变量。
+* post-treatment variables
+    * 被treatment影响的变量
